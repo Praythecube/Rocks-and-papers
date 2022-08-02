@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+html {
+    background-color: black;
+}
+
+#user {
+    max-width: 500px;
+}
+
+#user_photo {
+    max-width: 400px;
+    padding-left: 100px;
+    padding-right: 30px;
+}
+
+#random {
+    max-width: 400px;
+    border-radius: 20px;
+}
+
+#answer {
+    max-width: min-content;
+}
+
+#empty {
+    padding-right: 450px;
+}
+
+#button {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
